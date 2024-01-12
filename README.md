@@ -1,5 +1,3 @@
-## About Me
-
 Hi there! 👋 I'm Alice Ada Awuor, a passionate Biomedical and Software Engineer👩‍💻 based in Kenyan 🇰🇪. I love coding, exploring new technologies, building cool projects.
 
 - 🌱 I'm currently learning Front End Software Development on ALX
