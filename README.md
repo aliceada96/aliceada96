@@ -9,5 +9,5 @@ Hi there! 👋 I'm Alice Ada Awuor, a passionate Biomedical and Software Enginee
 
 ### Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-aliceadaawuorblue)](https://www.linkedin.com/in/alice-ada-awuor/)
-[![Twitter](https://img.shields.io/badge/Twitter-ms_okombo-blue)](https://twitter.com/Ms_Okombo)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-aliceadaawuor-blue)](https://www.linkedin.com/in/alice-ada-awuor/)
+[![Twitter](https://img.shields.io/badge/Twitter-Ms_Okombo-blue)](https://twitter.com/Ms_Okombo)
