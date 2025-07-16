@@ -2,10 +2,12 @@ Hi there! 👋 I'm Alice Ada, a passionate Biomedical and Software Engineer👩�
 
 - 🌱 I'm currently learning Front End Software Development on ALX
 - 💼 I currently work as a Biomedical Engineer.
-- 📫 How to reach me: aliceada96@gmail.com
+- 📫 How to reach me: awuorada05@gmail.com
 
 
 ### Connect with Me
+
+[![Linkedin](www.linkedin.com/in/aliceadaawuor-biomed-dev)
 
 [![Twitter](https://img.shields.io/badge/Twitter-Ms_Okombo-blue)](https://twitter.com/Ms_Okombo)
 
